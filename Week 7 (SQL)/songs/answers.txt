@@ -1,0 +1,14 @@
+SELECT
+    AVG(energy) AS avg_energy,
+    AVG(valence) AS avg_valence,
+    AVG(danceability) AS avg_danceability
+FROM songs;
+
+ I have this information a little bit higher at this file from database
+ songs, so my thoughts about one listener that is he like an very average person
+ because all of average energy, valence, and danceability are about 0.5 -
+ average at all.
+
+ But this aura won't be representative for real, because I find this
+ information for average value of millions of customers. In real life we'll have
+ a lot of different information for every customer.
